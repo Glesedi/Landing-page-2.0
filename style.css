@@ -1,0 +1,159 @@
+Header{
+  background-color: black;
+  color: white;
+  padding: 10px 30px 30px 90px;
+}
+
+.Header-Logo{
+  color: white;
+  font-size: 40px Bold;
+}
+
+ul{
+  display: flex;
+  justify-content: end;
+  flex-direction: row;
+  list-style: none;
+  font-size: 15px;
+  gap:20px;
+}
+
+.Header-info{
+  display:flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.Header-text-info{
+  display: flex ;
+  align-items: flex-start ;
+  flex-direction:column ;
+}
+
+.Header-main-text{
+  font-size: 50px;
+  color: white;
+  margin:0px;
+}
+
+.Header-main-subtext{
+  max-width: 500px;
+  margin:0px;
+}
+
+button{
+  background-color: white;
+  color: black ;
+  border-radius: 10px;
+  margin: 10px 0px;
+  padding: 5px 15px;  
+}
+
+img{
+  align-self: flex-end;
+  max-height:300px ;
+}
+
+/* Artist */
+.info{
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+
+.info h1{
+    text-align: center;
+    font-size: 36px bolder;
+    margin-top: 1rem;
+}
+
+.info-content{
+    display: flex;
+}
+
+.image img{
+    border: 2px solid  #3882f6;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    
+}
+
+.card{
+    width: 9rem;
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+
+/* Author Section*/
+
+.quote{
+    text-align: center;
+    background: black ;
+    margin-top: 2rem;
+}
+.quote .quote-body{
+    font-size: 36px;
+    font-style: italic;
+    color: white;
+    padding: 2rem; 
+
+}
+.author{
+    margin-left: 30rem;
+    font-size: 25px;
+    font-weight: bold;
+    color:white;
+  
+}
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
